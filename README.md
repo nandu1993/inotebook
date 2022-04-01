@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm run both`
+
+This will run both project API and frontend project.
+Backend API runs at http://localhost:5000
+Frontend UI runs at http://localhost:3000
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
