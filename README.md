@@ -16,9 +16,9 @@ You may also see any lint errors in the console.
 
 ### `npm run both`
 
-This will run both project API and frontend project.
-Backend API runs at http://localhost:5000
-Frontend UI runs at http://localhost:3000
+This will run both project API and frontend project.\
+Backend API runs at http://localhost:5000 \
+Frontend UI runs at http://localhost:3000 \
 
 ### `npm test`
 
